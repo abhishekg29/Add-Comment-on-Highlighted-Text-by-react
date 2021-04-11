@@ -1,28 +1,21 @@
-# Add-Comment-on-Highlighted-Text-by-react
+## Comment on highlighted text
 
-THE FLOW
+### The flow
+- **Highlight any part the text on the page**: A popup of button group appears, at this moment `comment` is the available option
+- **Click comment icon**: A text input appears in the right margin
+- **Type and submit**: After the submission, comment added to the comment list down below
+- **Click on any comment**: It should take us to the linked text
 
-    ~Highlight any part the text on the page: A popup of button group appears, at this moment comment is the available option
+### Stack
+React, Javascript, CSS, DOM
 
-    ~Click comment icon: A text input appears in the right margin
+### To run the source localy
+- **Install Dependencies**: run `yarn` or `npm install`
+- **Production Build**:
+  - `yarn run build` or `npm run build`
+  - `cd build`
+  - `python -m SimpleHTTPServer 3000`
+  - hit the browser to `localhost:3000`
 
-    ~Type and submit: After the submission, comment added to the comment list down below
-
-    ~Click on any comment: It should take us to the linked text
-
-
-STACK -
-
-    React, Javascript, CSS, DOM
-
-
-TO RUN THE SOURCE LOCALLY -
-
-    Install Dependencies: run yarn or npm install
-
-
-    ~hit the browser to localhost:3000
-
-Development Build:
-
-    yarn start or npm start
+- **Development Build**:
+  - `yarn start` or `npm start`
