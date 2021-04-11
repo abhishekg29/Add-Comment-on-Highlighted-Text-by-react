@@ -11,22 +11,15 @@ THE FLOW
 ~Click on any comment: It should take us to the linked text
 
 
-STACK
+STACK -
 
 React, Javascript, CSS, DOM
 
 
-TO RUN THE SOURCE LOCALLY
+TO RUN THE SOURCE LOCALLY -
 
 Install Dependencies: run yarn or npm install
 
-Production Build:
-
-~yarn run build or npm run build
-
-~cd build
-
-~python -m SimpleHTTPServer 3000
 
 ~hit the browser to localhost:3000
 
