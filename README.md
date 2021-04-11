@@ -10,9 +10,13 @@ THE FLOW
 
 ~Click on any comment: It should take us to the linked text
 
+
 STACK
 
-React, Javascript, CSS, DTO RUN THE SOURCE LOCALLY
+React, Javascript, CSS, DOM
+
+
+TO RUN THE SOURCE LOCALLY
 
 Install Dependencies: run yarn or npm install
 
