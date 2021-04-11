@@ -1,6 +1,6 @@
 # Add-Comment-on-Highlighted-Text-by-react
 
-The flow
+THE FLOW
 
 ~Highlight any part the text on the page: A popup of button group appears, at this moment comment is the available option
 
@@ -10,11 +10,9 @@ The flow
 
 ~Click on any comment: It should take us to the linked text
 
-Stack
+STACK
 
-React, Javascript, CSS, DOM
-
-To run the source localy
+React, Javascript, CSS, DTO RUN THE SOURCE LOCALLY
 
 Install Dependencies: run yarn or npm install
 
